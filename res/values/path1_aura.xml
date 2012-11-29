@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   	<string-array
+        name="path_points">
+        <item>55028822</item><item>82938213</item><item>55028514</item><item>82938320</item>
+		<item>55027407</item><item>82936989</item><item>55027087</item><item>82937354</item>
+		<item>55027075</item><item>82937719</item><item>55028711</item><item>82939800</item>
+		<item>55029387</item><item>82940594</item><item>55030310</item><item>82941281</item>
+		<item>55032204</item><item>82942268</item><item>55033569</item><item>82943169</item>
+		<item>55034294</item><item>82943577</item><item>55035302</item><item>82943942</item>
+		<item>55036323</item><item>82944028</item><item>55038118</item><item>82943555</item>
+		<item>55042286</item><item>82942354</item><item>55046638</item><item>82941281</item>
+		<item>55048458</item><item>82940766</item><item>55050535</item><item>82940380</item>
+		<item>55053350</item><item>82939693</item><item>55054309</item><item>82939307</item>
+		<item>55057443</item><item>82937976</item><item>55058082</item><item>82941903</item>
+		<item>55059225</item><item>82949070</item><item>55059802</item><item>82952932</item>
+		<item>55060048</item><item>82954907</item><item>55060466</item><item>82956602</item>
+		<item>55060847</item><item>82958318</item><item>55061400</item><item>82959842</item>
+		<item>55062100</item><item>82961280</item><item>55062715</item><item>82962674</item>
+		<item>55062912</item><item>82962696</item><item>55063354</item><item>82962073</item>
+		<item>55063673</item><item>82961859</item><item>55064693</item><item>82964005</item>
+		<item>55065934</item><item>82966751</item><item>55063526</item><item>82970077</item>
+		<item>55063391</item><item>82970270</item><item>55063268</item><item>82970227</item>
+		<item>55061154</item><item>82973189</item><item>55057836</item><item>82977888</item>
+		<item>55057652</item><item>82978553</item><item>55054493</item><item>82971686</item>
+		<item>55053461</item><item>82969541</item><item>55051359</item><item>82965056</item>
+		<item>55049122</item><item>82960486</item><item>55046098</item><item>82961344</item>
+		<item>55041709</item><item>82962546</item><item>55041536</item><item>82962524</item>
+		<item>55042618</item><item>82957224</item><item>55043479</item><item>82952890</item>
+		<item>55043823</item><item>82952053</item><item>55043995</item><item>82951495</item>
+		<item>55043897</item><item>82950915</item><item>55044413</item><item>82948276</item>
+		<item>55044659</item><item>82946903</item><item>55044745</item><item>82945723</item>
+		<item>55044733</item><item>82945379</item><item>55041893</item><item>82946066</item>
+		<item>55041672</item><item>82946087</item><item>55041524</item><item>82946238</item>
+		<item>55039090</item><item>82946903</item><item>55038954</item><item>82945315</item>
+		<item>55039028</item><item>82944650</item><item>55039237</item><item>82944070</item>
+		<item>55039065</item><item>82942161</item><item>55038745</item><item>82941817</item>
+		<item>55038573</item><item>82941174</item><item>55038020</item><item>82934929</item>
+		<item>55037663</item><item>82930767</item><item>55035634</item><item>82931260</item>
+		<item>55032007</item><item>82932183</item><item>55031675</item><item>82933256</item>
+		<item>55030519</item><item>82935745</item><item>55030088</item><item>82935874</item>
+		<item>55028822</item><item>82938213</item>
+    </string-array>
+    
+   	<string-array
+        name="path_stops">
+   	 </string-array>
+</resources>
